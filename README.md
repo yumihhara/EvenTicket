@@ -48,4 +48,4 @@ O planejamento das atividades, os responsáveis e os prazos de cada etapa estão
 
 O projeto será desenvolvido de forma colaborativa. Cada integrante ficará responsável por uma parte da atividade, registrando suas contribuições no repositório por meio de commits.
 
-Os documentos serão adicion
+Os documentos serão adicionados 
