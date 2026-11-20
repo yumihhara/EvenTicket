@@ -10,8 +10,9 @@ Responsável pela definição da entidade Participante e de seus atributos no mo
 
 ## Arquivos desta contribuição
 
-- [Entrega_Camila_Brandao.pdf](./Entrega_Camila_Brandao.pdf) – Documento com a descrição das atividades realizadas, justificativas e diagrama.
-- [entidade_participante_camila.drawio](./entidade_participante_camila.drawio) – Arquivo editável do diagrama da entidade Participante (DER, notação de Chen).
+- [Entrega_Camila_Brandao.pdf](./Entrega_Camila_Brandao.pdf) - Documento com a descrição das atividades realizadas, justificativas e diagrama.
+- [entidade_participante_camila.drawio](./entidade_participante_camila.drawio) - Arquivo editável do diagrama da entidade Participante (DER, notação de Chen).
+- [entidade_participante_camila.drawio.pdf](./entidade_participante_camila.drawio.pdf) - Versão em PDF do diagrama da entidade Participante (DER, notação de Chen), para visualização.
 
 ## Observação
 
