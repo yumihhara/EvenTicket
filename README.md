@@ -21,10 +21,10 @@ O projeto será desenvolvido por meio da elaboração do modelo conceitual e do 
 
 - Beatriz Yumi M. Hara
 - Camila Brandão de Sá
+- Emanuel Filho
+- Enzo Zaffaroni
 - Gabriel Felipe Xavier
 - Pedro Gazzolla
-- Enzo
-- Emanuel
 
 ## 4. Organização do repositório
 
