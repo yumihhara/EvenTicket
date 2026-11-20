@@ -17,8 +17,9 @@ Foram registradas as decisões de modelagem para que a equipe pudesse justificá
 
 ## Arquivos desta contribuição
 
-- [Entrega_Enzo_Zaffaroni.pdf](./Entrega_Enzo_Zaffaroni.pdf) – Documento individual de 06/11/2026, com atividades realizadas, justificativa e DER anexado.
-- [der_consolidado_enzo.drawio](./der_consolidado_enzo.drawio) – Versão editável do DER consolidado, baseada no diagrama conceitual oficial do grupo; pode ser aberta no diagrams.net (draw.io).
+- [Entrega_Enzo_Zaffaroni.pdf](./Entrega_Enzo_Zaffaroni.pdf) - Documento individual de 06/11/2026, com atividades realizadas, justificativa e DER anexado.
+- [der_consolidado_enzo.drawio](./der_consolidado_enzo.drawio) - Versão editável do DER consolidado, baseada no diagrama conceitual oficial do grupo; pode ser aberta no diagrams.net (draw.io).
+- [der_consolidado_enzo.drawio.pdf](./der_consolidado_enzo.drawio.pdf) - Versão em PDF do DER consolidado, para visualização.
 
 ## Observação
 
