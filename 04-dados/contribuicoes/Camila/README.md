@@ -16,4 +16,4 @@ Responsável pela definição da entidade Participante e dos seus respectivos at
 
 ## Observação
 
-Esta contribuição individual será utilizada como referência para a consolidação do modelo de dados oficial do projeto EvenTicket
+Esta contribuição individual será utilizada como referência para a consolidação do modelo de dados oficial do projeto EvenTicket.
