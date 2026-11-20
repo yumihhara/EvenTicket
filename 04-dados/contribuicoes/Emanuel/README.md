@@ -1,7 +1,9 @@
 # Contribuição Individual – Emanuel
 
 **Projeto:** EvenTicket – Controle de Eventos
+
 **Equipe:** Grupo 05
+
 **Integrante:** Emanuel
 
 ## Atividades realizadas
