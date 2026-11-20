@@ -32,7 +32,7 @@ Os documentos do projeto serão organizados na pasta `04-dados`, seguindo a sequ
 
 | Arquivo | Descrição |
 |---|---|
-| `00_catalogo_rn.md` | Catálogo de regras de negócio |
+| [`00_catalogo_rn.md`](./00_catalogo_rn.md) | Catálogo de regras de negócio |
 | `01_inventario_dados.md` | Inventário de dados, entidades e atributos |
 | `02_modelo_conceitual_v1` | Modelo conceitual em PDF e formato editável |
 | `03_decisoes_modelagem.md` | Decisões e justificativas da modelagem |
