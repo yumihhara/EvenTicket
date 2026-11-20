@@ -1,8 +1,9 @@
 # Contribuição Individual - Beatriz Yumi M. Hara
 
 **Projeto:** EvenTicket – Controle de Eventos
+
 **Equipe:** Grupo 05
-**Integrante:** Beatriz Yumi M. Hara
+
 **Integrante:** Beatriz Yumi M. Hara
 
 ## Atividades realizadas
