@@ -14,6 +14,7 @@ Responsável pela definição das entidades Local e Evento no modelo conceitual,
 
 - [Entrega_Beatriz_Yumi_M_Hara.pdf](./Entrega_Beatriz_Yumi_M_Hara.pdf) – Documento com a descrição das atividades realizadas, justificativas e diagrama.
 - [entidades_local_evento_beatriz.drawio](./entidades_local_evento_beatriz.drawio) – Arquivo editável do diagrama das entidades Local e Evento (DER, notação de Chen).
+- [entidades_local_evento_beatriz.drawio.pdf](./entidades_local_evento_beatriz.drawio.pdf) - Versão em PDF do diagrama das entidades Local e Evento (DER, notação de Chen), para visualização.
 
 ## Observação
 
