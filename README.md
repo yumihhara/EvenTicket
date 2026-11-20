@@ -34,9 +34,9 @@ Os documentos do projeto serão organizados na pasta `04-dados`, seguindo a sequ
 |---|---|
 | [`00_catalogo_rn.md`](./04-dados/00_catalogo_rn.md) | Catálogo de regras de negócio |
 | [`01_inventario_dados.md`](./04-dados/01_inventario_dados.md) | Inventário de dados, entidades e atributos |
-| [`02_modelo_conceitual_v1`](./04-dados/02_modelo_conceitual_v1) | Modelo conceitual em PDF e formato editável |
+| [`02_modelo_conceitual_v1`](./04-dados/02_modelo_conceitual_v1.pdf) | Modelo conceitual em PDF e formato editável |
 | [`03_decisoes_modelagem.md`](./04-dados/03_decisoes_modelagem.md) | Decisões e justificativas da modelagem |
-| [`04_modelo_logico_v1`](./04-dados/04_modelo_logico_v1) | Modelo lógico em PDF e formato editável |
+| [`04_modelo_logico_v1`](./04-dados/04_modelo_logico_v1.pdf) | Modelo lógico em PDF e formato editável |
 | [`05_dicionario_dados_v1.md`](./04-dados/05_dicionario_dados_v1.md) | Dicionário de dados |
 | [`06_regras_integridade.md`](./04-dados/06_regras_integridade.md) | Regras de integridade do banco de dados |
 
