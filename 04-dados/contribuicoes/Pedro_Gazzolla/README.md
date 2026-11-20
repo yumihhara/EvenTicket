@@ -11,7 +11,7 @@ Responsável pela definição da entidade Categoria e da entidade dependente (fr
 
 ## Arquivos desta contribuição
 
-- `Entrega_Pedro_Gazzolla.pdf` – Documento com a descrição das atividades realizadas, justificativas e diagrama.
+- `./Entrega_Pedro_Gazzolla.pdf` – Documento com a descrição das atividades realizadas, justificativas e diagrama.
 - `cardinalidades_pedro.drawio` – Arquivo editável do diagrama de cardinalidades.
 
 ## Observação
