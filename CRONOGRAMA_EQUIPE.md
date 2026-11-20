@@ -49,8 +49,8 @@ Todos os integrantes deverão concluir suas partes e colaborar com a revisão do
 | Gabriel Felipe Xavier | Desenvolver as seções 1 e 5. |
 | Beatriz Yumi M. Hara | Participar da elaboração da seção 2. |
 | Camila Brandão de Sá | Participar da elaboração da seção 2. |
-| Emanuel | Participar da elaboração da seção 2. |
-| Enzo | Participar da elaboração da seção 2. |
+| Emanuel Filho | Participar da elaboração da seção 2. |
+| Enzo Zaffaroni | Participar da elaboração da seção 2. |
 | Todos os integrantes | Elaborar uma análise individual para a seção 3 e revisar as seções 3.5 e 4. |
 | Pedro Gazzolla | Organizar a estrutura e realizar a entrega final do relatório. |
 
