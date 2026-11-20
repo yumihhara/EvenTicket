@@ -10,9 +10,9 @@ Responsável pela definição da entidade Participante e dos seus respectivos at
 
 ## Arquivos desta contribuição
 
-* [anexo_participante_camila.pdf](./04-dados/anexo_participante_camila.pdf) – Documento com a descrição das atividades realizadas, justificativas e diagrama.
-* [anexo_participante_camila.drawio](./04-dados/anexo_participante_camila.drawio) – Arquivo editável do diagrama de cardinalidades.
-* [contribuicao_camila_participante.md](./04-dados/contribuicao_camila_participante.md) – Arquivo em Markdown com o detalhamento da contribuição individual.
+- [Entrega_Camila_Brandao.pdf](./Entrega_Camila_Brandao.pdf) – Documento com a descrição das atividades realizadas, justificativas e diagrama.
+- [Entrega_Camila_EvenTicket.zip](./Entrega_Camila_EvenTicket.zip) – Pacote compactado contendo o documento em PDF e o arquivo editável do diagrama (`.drawio`).
+- [contribuicao_camila_participante.md](./04-dados/contribuicao_camila_participante.md) – Arquivo em Markdown com o detalhamento da contribuição individual.
 
 ## Observação
 
