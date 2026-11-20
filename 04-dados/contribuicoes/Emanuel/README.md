@@ -12,8 +12,9 @@ Responsável por iniciar o modelo lógico relacional (04_modelo_logico_v1) a par
 
 ## Arquivos desta contribuição
 
-- [Entrega_Emanuel.pdf](./Entrega_Emanuel.pdf) – Documento com a descrição das atividades realizadas, justificativas e diagrama.
-- [modelo_logico_v1_emanuel.drawio](./modelo_logico_v1_emanuel.drawio) – Arquivo editável do diagrama do modelo lógico relacional v1.
+- [Entrega_Emanuel.pdf](./Entrega_Emanuel.pdf) - Documento com a descrição das atividades realizadas, justificativas e diagrama.
+- [modelo_logico_v1_emanuel.drawio](./modelo_logico_v1_emanuel.drawio) - Arquivo editável do diagrama do modelo lógico relacional v1.
+- [modelo_logico_v1_emanuel.drawio.pdf](./modelo_logico_v1_emanuel.drawio.pdf) - Versão em PDF do diagrama do modelo lógico relacional v1, para visualização.
 
 ## Observação
 
