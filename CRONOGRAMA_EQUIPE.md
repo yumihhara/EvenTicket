@@ -14,8 +14,8 @@ Nesta etapa, cada integrante ficará responsável por desenvolver uma parte espe
 | Camila Brandão de Sá | Definir a entidade Participante e seus atributos, identificando um atributo multivalorado e um atributo derivado. |
 | Gabriel Felipe Xavier | Modelar a entidade associativa Inscrição, responsável por relacionar Participante e Evento, definindo seus atributos e a regra para impedir inscrições duplicadas. |
 | Pedro Gazzolla | Definir a entidade Categoria e a entidade fraca Atividade, indicando cardinalidades e participação. |
-| Enzo | Reunir as contribuições dos integrantes e consolidar o modelo conceitual (DER) versão 1. |
-| Emanuel | Iniciar o modelo lógico relacional versão 1, utilizando as informações disponíveis do modelo conceitual. |
+| Enzo Zaffaroni | Reunir as contribuições dos integrantes e consolidar o modelo conceitual (DER) versão 1. |
+| Emanuel Filho | Iniciar o modelo lógico relacional versão 1, utilizando as informações disponíveis do modelo conceitual. |
 
 ## 2. Defesa em grupo — 13/11/2026
 
