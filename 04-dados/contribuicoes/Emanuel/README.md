@@ -1,21 +1,27 @@
 # Contribuição Individual – Emanuel
 
-**Projeto:** EvenTicket – Controle de Eventos
-
-**Equipe:** Grupo 05
-
+**Projeto:** EvenTicket – Controle de Eventos  
+**Equipe:** Grupo 05  
 **Integrante:** Emanuel
 
 ## Atividades realizadas
 
-Responsável por iniciar o modelo lógico relacional (04_modelo_logico_v1) a partir do DER, com 7 tabelas: local, categoria, evento, atividade, participante, telefone_participante e inscricao. Aplicou as regras de transformação: entidade vira tabela; relacionamento 1:N vira chave estrangeira no lado N (local_id e categoria_id em evento); N:N vira a tabela associativa inscricao, com unicidade do par (participante_cpf, evento_codigo); entidade fraca vira chave primária composta (evento_codigo, numero_atividade); atributo multivalorado vira tabela própria. Marcou como obrigatórias as chaves estrangeiras de evento e inscricao e registrou a restrição de domínio de inscricao.status (somente ativa ou cancelada). Os atributos derivados idade e vagas_disponiveis não são armazenados como colunas. Esta é a versão v1: normalização, dicionário de dados e regras de integridade seguem nas próximas etapas.
+Responsável por iniciar o **modelo lógico relacional (versão 1)** do EvenTicket, a partir do Diagrama Entidade-Relacionamento (DER) desenvolvido pela equipe.
+
+O modelo foi organizado em **sete tabelas**: `local`, `categoria`, `evento`, `atividade`, `participante`, `telefone_participante` e `inscricao`. Foram definidas as chaves primárias (PK), chaves estrangeiras (FK) e as transformações dos relacionamentos:
+
+- **1:N:** chaves estrangeiras no lado N, como `local_id` e `categoria_id` em `evento`.
+- **N:N:** tabela associativa `inscricao`, com unicidade para o par (`participante_cpf`, `evento_codigo`).
+- **Entidade fraca:** `atividade`, identificada pela chave primária composta (`evento_codigo`, `numero_atividade`).
+- **Atributo multivalorado:** `telefone`, representado pela tabela `telefone_participante`.
+
+Também foram indicadas chaves estrangeiras obrigatórias em `evento` e `inscricao`, além da restrição de valores para `inscricao.status` (`ativa` ou `cancelada`). Os atributos `idade` e `vagas_disponiveis` não foram incluídos como colunas, por serem derivados de outras informações.
 
 ## Arquivos desta contribuição
 
-- [Entrega_Emanuel.pdf](./Entrega_Emanuel.pdf) - Documento com a descrição das atividades realizadas, justificativas e diagrama.
-- [modelo_logico_v1_emanuel.drawio](./modelo_logico_v1_emanuel.drawio) - Arquivo editável do diagrama do modelo lógico relacional v1.
-- [modelo_logico_v1_emanuel.drawio.pdf](./modelo_logico_v1_emanuel.drawio.pdf) - Versão em PDF do diagrama do modelo lógico relacional v1, para visualização.
+- **Entrega_Emanuel.pdf** – Documento da atividade individual de 06/11/2026, com descrição das atividades, justificativas e o modelo lógico apresentado.
+- **modelo_logico_emanuel.drawio** – Arquivo editável do modelo lógico relacional utilizado na consolidação da contribuição.
 
 ## Observação
 
-Esta contribuição individual será utilizada como referência para a consolidação do modelo de dados oficial do projeto EvenTicket.
+Esta contribuição individual registra a elaboração inicial do modelo lógico e serve como referência para a consolidação do modelo de dados oficial do projeto EvenTicket. Conforme indicado na entrega individual, o dicionário de dados e as regras de integridade foram previstos para etapas posteriores.
